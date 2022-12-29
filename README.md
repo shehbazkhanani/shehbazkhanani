@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @shehbazkhanani
+- 👋 Hi, I’m Shehbaz Khanani,
 - 👀 I’m interested in Exploring new updates
 - 🌱 I’m currently learning Backend Development
-- 📫 reach me at cuteboyusman49@gmail.com 
+- 📫 reach me at email : shehbazkhanani@gmail.com cell : +92 342345 2218
+
+MY SOCIAL ACCOUNTS:
+LinkedIn: https://www.linkedin.com/in/shehbazkhanani
+Facebook: https://web.facebook.com/shehbazkhanani
+Instagram: https://www.instagram.com/shehbazkhanani
 
 <!---
 shehbazkhanani/shehbazkhanani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
