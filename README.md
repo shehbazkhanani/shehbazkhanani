@@ -11,7 +11,7 @@ MY SOCIAL ACCOUNTS:
 MY WORK :
 
 - front end development of => https://www.chaindna.io
-- front end development of => https://tumilabs.com/bootcamp
+- front end development of => https://tumilabs.com
 
 
 
