@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shehbaz Khanani,
+- Full Stack Developer
 - 👀 I’m interested in Exploring new updates
 - 🌱 I’m currently learning BlockChain Development
 - 📫 reach me at email : shehbazkhanani@gmail.com cell : +92 342345 2218
