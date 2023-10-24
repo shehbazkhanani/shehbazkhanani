@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shehbaz Khanani,
 - Full Stack Developer
 - 👀 I’m interested in Exploring new updates
-- 🌱 I’m currently learning Web 3.0 and Metaverse Developer
+- 🌱 I’m currently learning Web 3.0 and Metaverse Development
 - 📫 reach me at email : shehbazkhanani@gmail.com cell : +92 342345 2218
 
 🚀 My Skills:
