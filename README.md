@@ -21,8 +21,6 @@ MY WORK :
 
 MY SOCIAL ACCOUNTS:
 - LinkedIn: https://www.linkedin.com/in/shehbazkhanani
-- Facebook: https://web.facebook.com/shehbazkhanani
-- Instagram: https://www.instagram.com/shehbazkhanani
 
 <!---
 shehbazkhanani/shehbazkhanani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
